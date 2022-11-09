@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+        "maintainer": "Luke Williams (ExpressLuke)",
+        "oem": "Samsung",
+        "device": "Galaxy S8",
+        "filename": "crDroidAndroid-13.0-20221109-dreamlte-v9.0.zip",
+        "download": "https://github.com/crDroidAndroid-Exynos/OTA/releases/download/crDroidAndroid-13.0-20221109-dreamlte-v9.0.zip/crDroidAndroid-13.0-20221109-dreamlte-v9.0.zip",
+        "timestamp": 1667997270,
+        "md5": "6121070fb943a0690b84274a55ed8d47",
+        "sha256": "5a019197c74f7b98772a4cb699ffba86b51f9774bf51d68fa27379ab19c40094",
+        "size": 818457735,
+        "version": "9.0",
+        "buildtype": "Monthly",
+        "forum": "https://placeholder.forum.link",
+        "gapps": "",
+        "firmware": "",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "",
+        "telegram": "",
+        "dt": "https://github.com/8890q/android_device_samsung_dreamlte",
+        "common-dt": "https://github.com/8890q/android_device_samsung_universal8890-common",
+        "kernel": "https://github.com/8890q/android_kernel_samsung_universal8890"
+    }
+  ]
+}
