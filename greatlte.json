@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+        "maintainer": "Luke Williams (ExpressLuke)",
+        "oem": "Samsung",
+        "device": "Galaxy Note 8",
+        "filename": "crDroidAndroid-13.0-20221109-greatlte-v9.0.zip",
+        "download": "https://github.com/crDroidAndroid-Exynos/OTA/releases/download/crDroidAndroid-13.0-20221109-greatlte-v9.0.zip/crDroidAndroid-13.0-20221109-greatlte-v9.0.zip",
+        "timestamp": 1667982518,
+        "md5": "b64483889fa4e97f8f5fa9fcc1f20b4c",
+        "sha256": "1f43a93b5228dcf2efb5fa219b263b9459cd0f8d1560a8551029e2a860e1af48",
+        "size": 819436624,
+        "version": "9.0",
+        "buildtype": "Monthly",
+        "forum": "https://placeholder.forum.link",
+        "gapps": "",
+        "firmware": "",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "",
+        "telegram": "",
+        "dt": "https://github.com/8890q/android_device_samsung_greatlte",
+        "common-dt": "https://github.com/8890q/android_device_samsung_universal8890-common",
+        "kernel": "https://github.com/8890q/android_kernel_samsung_universal8890"
+    }
+  ]
+}
