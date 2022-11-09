@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+        "maintainer": "Luke Williams (ExpressLuke)",
+        "oem": "Samsung",
+        "device": "Galaxy S8+",
+        "filename": "crDroidAndroid-13.0-20221109-dream2lte-v9.0.zip",
+        "download": "https://github.com/crDroidAndroid-Exynos/OTA/releases/download/crDroidAndroid-13.0-20221109-dream2lte-v9.0.zip/crDroidAndroid-13.0-20221109-dream2lte-v9.0.zip",
+        "timestamp": 1667987635,
+        "md5": "f7c4cb83b2645d4efe077d06221dc69e",
+        "sha256": "1aeab3a4d79e368fb4d0d96c7571f40234ac750b1234ff7943b731a3871743d7",
+        "size": 818534590,
+        "version": "9.0",
+        "buildtype": "Monthly",
+        "forum": "https://placeholder.forum.link",
+        "gapps": "",
+        "firmware": "",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "",
+        "telegram": "",
+        "dt": "https://github.com/8890q/android_device_samsung_dream2lte",
+        "common-dt": "https://github.com/8890q/android_device_samsung_universal8890-common",
+        "kernel": "https://github.com/8890q/android_kernel_samsung_universal8890"
+    }
+  ]
+}
