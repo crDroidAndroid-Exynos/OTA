@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+        "maintainer": "Luke Williams (ExpressLuke)",
+        "oem": "Samsung",
+        "device": "Galaxy S10e",
+        "filename": "crDroidAndroid-13.0-20221126-beyond0lte-v9.0.zip",
+        "download": "https://github.com/crDroidAndroid-Exynos/OTA/releases/download/crDroidAndroid-13.0-20221126-beyond0lte-v9.0.zip/crDroidAndroid-13.0-20221126-beyond0lte-v9.0.zip",
+        "timestamp": ,
+        "md5": "7f5ec06de94e7da9b1bfa9b2baf76072",
+        "sha256": "15909843d80bf07bf82c795ee3c0cdf5cf45671d10f6c457d0fdf29031d92459",
+        "size": 974267504,
+        "version": "9.0",
+        "buildtype": "Monthly",
+        "forum": "https://placeholder.forum.link",
+        "gapps": "",
+        "firmware": "",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "",
+        "telegram": "",
+        "dt": "https://placeholder.dt.link",
+        "common-dt": "https://placeholder.commondt.link",
+        "kernel": "https://placeholder.kernel.link"
+    }
+  ]
+}
