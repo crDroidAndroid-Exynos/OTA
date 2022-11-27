@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+        "maintainer": "Luke Williams (ExpressLuke)",
+        "oem": "Samsung",
+        "device": "Galaxy Note10",
+        "filename": "crDroidAndroid-13.0-20221126-d1-v9.0.zip",
+        "download": "https://github.com/crDroidAndroid-Exynos/OTA/releases/download/crDroidAndroid-13.0-20221126-d1-v9.0.zip/crDroidAndroid-13.0-20221126-d1-v9.0.zip",
+        "timestamp": 0,
+        "md5": "9d81395798a673cdfc8be6b3ab633688",
+        "sha256": "6e6cefa3028acf886faaed080d0ea754f2c6cf9e3d45a665f553e20e26905cc0",
+        "size": 986872147,
+        "version": "9.0",
+        "buildtype": "Monthly",
+        "forum": "https://placeholder.forum.link",
+        "gapps": "",
+        "firmware": "",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "",
+        "telegram": "",
+        "dt": "https://placeholder.dt.link",
+        "common-dt": "https://placeholder.commondt.link",
+        "kernel": "https://placeholder.kernel.link"
+    }
+  ]
+}
