@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+        "maintainer": "Luke Williams (ExpressLuke)",
+        "oem": "Samsung",
+        "device": "Galaxy S10",
+        "filename": "crDroidAndroid-13.0-20221126-beyond1lte-v9.0.zip",
+        "download": "https://github.com/crDroidAndroid-Exynos/OTA/releases/download/crDroidAndroid-13.0-20221126-beyond1lte-v9.0.zip/crDroidAndroid-13.0-20221126-beyond1lte-v9.0.zip",
+        "timestamp": 0,
+        "md5": "20e294e127585acd2a3eda16d43e0fe6",
+        "sha256": "0dcb5a640cb1544937df38a3e5d86ac8a1a2294caeb2f635b8462ea8df61cc81",
+        "size": 981458222,
+        "version": "9.0",
+        "buildtype": "Monthly",
+        "forum": "https://placeholder.forum.link",
+        "gapps": "",
+        "firmware": "",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "",
+        "telegram": "",
+        "dt": "https://placeholder.dt.link",
+        "common-dt": "https://placeholder.commondt.link",
+        "kernel": "https://placeholder.kernel.link"
+    }
+  ]
+}
