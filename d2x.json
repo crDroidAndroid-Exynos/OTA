@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+        "maintainer": "Luke Williams (ExpressLuke)",
+        "oem": "Samsung",
+        "device": "Galaxy Note10+ 5G",
+        "filename": "crDroidAndroid-13.0-20221126-d2x-v9.0.zip",
+        "download": "https://github.com/crDroidAndroid-Exynos/OTA/releases/download/crDroidAndroid-13.0-20221126-d2x-v9.0.zip/crDroidAndroid-13.0-20221126-d2x-v9.0.zip",
+        "timestamp": 0,
+        "md5": "11c7a50e9e52c96a45cbb03bf75e3b20",
+        "sha256": "341b8f2f91c494093d06051a6c83eaf43e77b61b374e8a3e1bea1d92edb6ca44",
+        "size": 992444895,
+        "version": "9.0",
+        "buildtype": "Monthly",
+        "forum": "https://placeholder.forum.link",
+        "gapps": "",
+        "firmware": "",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "",
+        "telegram": "",
+        "dt": "https://placeholder.dt.link",
+        "common-dt": "https://placeholder.commondt.link",
+        "kernel": "https://placeholder.kernel.link"
+    }
+  ]
+}
